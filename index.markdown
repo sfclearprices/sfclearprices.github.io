@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Hi! We're some redditors who just introduced an initiative ordinance, the Transparent Restaurant Pricing Act, for San Francisco to require restaurants to include surcharges in prices. This will be relevant in the event that [SB 1524](https://www.sfchronicle.com/food/restaurants/article/restaurant-junk-fees-exemption-bill-19497214.php) becomes law.
+Hi! We're some San Franciscans who just introduced an initiative ordinance, the Transparent Restaurant Pricing Act, for San Francisco to require restaurants to include surcharges in prices. This will be relevant in the event that [SB 1524](https://www.sfchronicle.com/food/restaurants/article/restaurant-junk-fees-exemption-bill-19497214.php) becomes law.
 
 
 <details>
@@ -42,7 +42,7 @@ We’re just like… some guys, you know. That said, if you’re an evil politic
 
 <details>
 <summary>Will this raise prices?</summary>
-Yes, but not really. This will require prices include fees that we are <i>already paying</i>. So while nominal prices go up, but effective prices we are paying stay virtually the same.
+This will require prices include fees we are <i>already paying</i>. The price you see on the menu might go up, but without the added fees, the prices we'll pay at the end of the night stay virtually the same.
 </details>
 <span class="spacer" />
 
