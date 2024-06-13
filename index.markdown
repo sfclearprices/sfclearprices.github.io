@@ -70,7 +70,7 @@ This bill could equivalently be formatted:
 <li>Subtotal: $105</li>
 <li>Taxes: $9.06</li>
 <li>Total: $114.06</li>
-<li><i>Note</i>: $5 from your bill went towards the Healthy SF Fund (for example). Thank you!</li>
+<li><i>Note</i>: $5 from your bill went towards our employees' health insurance (for example). Thank you!</li>
 </ul>
 
 </details>
