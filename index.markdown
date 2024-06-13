@@ -4,7 +4,6 @@ layout: page
 
 Hi! We're some San Franciscans who just introduced an initiative ordinance, the Transparent Restaurant Pricing Act, for San Francisco to require restaurants to include surcharges in prices. This will be relevant in the event that [SB 1524](https://www.sfchronicle.com/food/restaurants/article/restaurant-junk-fees-exemption-bill-19497214.php) becomes law.
 
-
 <details>
 <summary>Why should we ban surcharges?</summary>
 Mandatory surcharges are fundamentally misleading: they make prices look lower than they actually are and make you do a multiplication problem to find out what you need to pay.
@@ -15,7 +14,7 @@ Mandatory surcharges are fundamentally misleading: they make prices look lower t
 <details>
 <summary>Why now?</summary>
 
-In October 2023, the <a href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB478">Consumers Legal Remedies Act (SB 478)</a> become law. This banned "drip pricing" (a rising trend in which companies will shift some cost from the price of items into mandatory fees) in California, effective July 1, 2024. But then, in June 2024 — less than a month before the surcharge ban was set to take effect — legislators introduced <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB1524">SB 1524</a>, a last-minute attempt to carve out an exception for restaurants and bars to continue to engage in drip pricing. This measure is intended to close the SB 1524 loophole within San Francisco.
+In October 2023, the <a href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB478">Consumers Legal Remedies Act (SB 478)</a> was signed into law. This banned "drip pricing" (a rising trend in which companies will shift some cost from the price of items into mandatory fees) in California, effective July 1, 2024. But then, in June 2024 — less than a month before the surcharge ban was set to take effect — legislators introduced <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB1524">SB 1524</a>, a last-minute attempt to carve out an exception for restaurants and bars to continue to engage in drip pricing. This measure is intended to close the SB 1524 loophole within San Francisco.
 
 </details>
 <span class="spacer" />
@@ -65,6 +64,7 @@ Yes. This ordinance only affects the advertised or listed prices of items. If th
 </ul>
 
 This bill could equivalently be formatted:
+
 <ul>
 <li>$105 food items</li>
 <li>Subtotal: $105</li>
