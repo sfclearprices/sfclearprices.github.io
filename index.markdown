@@ -35,7 +35,7 @@ The petition to put this on the ballot has been submitted to the City Attorney f
 <span class="spacer" />
 
 <details>
-<summary>What evil political monolith PAC is behind this?</summary>
+<summary>What evil political monolith PAC is funding this?</summary>
 We’re just like… some guys, you know. That said, if you’re an evil political monolith PAC and want to help us for some reason, please <a href="/contact">get in touch</a>!
 </details>
 <span class="spacer" />
