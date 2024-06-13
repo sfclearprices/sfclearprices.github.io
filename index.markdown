@@ -23,22 +23,26 @@ In October 2023, the <a href="https://leginfo.legislature.ca.gov/faces/billTextC
 <details>
 <summary>How do I help?</summary>
 
-* [Contact your state legislators](https://findyourrep.legislature.ca.gov/) and tell them that you oppose SB 1524
-* [Join our email list!](/contact)
+<ul>
+<li><a href="/subscribe">Join our email list.</a></li>
+<li><a href="https://findyourrep.legislature.ca.gov/">Contact your state legislators</a> and tell them that you oppose SB 1524.</li>
+<li><a href="https://sfplanninggis.org/sffind/">Contact your Supervisor</a> and tell them that you support a city ordinance to ban restaurant surcharges.</li>
+</ul>
 
-The petition to put this on the ballot has been submitted to the City Attorney for review but is not yet cleared for circulation.
+The petition to put this on the ballot has been submitted to the City Attorney for review but is not yet cleared for circulation. (And with any luck, SB 1524 will not pass and this will be unnecessary anyway.)
+
 </details>
 <span class="spacer" />
 
 <details>
-<summary>What evil political monolith PAC corporation is behind this?</summary>
-We’re just like… some guys, you know. That said, if you’re an evil political monolith and want to help us for some reason, please [get in touch](/contact)!
+<summary>What evil political monolith PAC is behind this?</summary>
+We’re just like… some guys, you know. That said, if you’re an evil political monolith PAC and want to help us for some reason, please <a href="/contact">get in touch</a>!
 </details>
 <span class="spacer" />
 
 <details>
 <summary>Will this raise prices?</summary>
-Yes, but not really. This will require prices include fees that we are _already paying_. So while nominal prices go up, but effective prices we are paying stay virtually the same.
+Yes, but not really. This will require prices include fees that we are <i>already paying</i>. So while nominal prices go up, but effective prices we are paying stay virtually the same.
 </details>
 <span class="spacer" />
 
@@ -50,21 +54,24 @@ No. This does not affect the business constraints in which restaurants operate: 
 
 <details>
 <summary>I like knowing that my money is supporting workers. Can businesses still include this information?</summary>
-Yes. This ordinance only affects the advertised or listed prices of items. If the restaurant wants to list it on the receipt, they can do so. Consider an example: a current bill may be formatted as
+Yes. This ordinance only affects the advertised or listed prices of items. If the restaurant wants to put this information on the receipt, they are still free to do so. Consider an example: a current bill may be formatted as
 
-* $100 food items
-* $5 SF Mandate Surcharge
-* Subtotal: $105
-* Taxes: $9.06
-* Total: $114.06
+<ul>
+<li>$100 food items</li>
+<li>$5 SF Mandate Surcharge</li>
+<li>Subtotal: $105</li>
+<li>Taxes: $9.06</li>
+<li>Total: $114.06</li>
+</ul>
 
 This bill could equivalently be formatted:
-
-* $105 food items
-* Subtotal: $105
-* Taxes: $9.06
-* Total: $114.06
-* Note: $5 from your bill went towards the Healthy SF Fund (for example). Thank you!
+<ul>
+<li>$105 food items</li>
+<li>Subtotal: $105</li>
+<li>Taxes: $9.06</li>
+<li>Total: $114.06</li>
+<li><i>Note</i>: $5 from your bill went towards the Healthy SF Fund (for example). Thank you!</li>
+</ul>
 
 </details>
 <span class="spacer" />
