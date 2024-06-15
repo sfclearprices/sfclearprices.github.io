@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Hi! We're some San Franciscans who just introduced an initiative ordinance, the Transparent Restaurant Pricing Act, for San Francisco to require restaurants to include surcharges in prices. This will be relevant in the event that [SB 1524](https://www.sfchronicle.com/food/restaurants/article/restaurant-junk-fees-exemption-bill-19497214.php) becomes law.
+Hi! We're some San Franciscans who just introduced an initiative ordinance, the Transparent Restaurant Pricing Act, for San Francisco to require restaurants to include surcharges in prices. This will be relevant in the event that [SB 1524 becomes law](https://www.sfchronicle.com/food/restaurants/article/restaurant-junk-fees-exemption-bill-19497214.php).
 
 <details>
 <summary>Why should we ban surcharges?</summary>
@@ -70,7 +70,7 @@ This bill could equivalently be formatted:
 <li>Subtotal: $105</li>
 <li>Taxes: $9.06</li>
 <li>Total: $114.06</li>
-<li><i>Note</i>: $5 from your bill went towards our employees' health insurance (for example). Thank you!</li>
+<li><i>Note</i>: $5 from your bill went towards our employees' healthcare. Thank you!</li>
 </ul>
 
 </details>
