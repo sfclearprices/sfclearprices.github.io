@@ -55,7 +55,7 @@ No. This does not affect the business constraints in which restaurants operate: 
 
 <details>
 <summary>I like knowing that my money is supporting workers. Can businesses still include this information?</summary>
-Yes. This ordinance only affects the advertised or listed prices of items. If the restaurant wants to put this information on the receipt, they are still free to do so. Consider an example: a current bill may be formatted as
+Yes. This ordinance only affects the advertised or listed prices of items. If the restaurant wants to put this information on the receipt, they are still free to do so. Consider an example: a current bill may be formatted as:
 
 <ul>
 <li>$100 food items</li>
