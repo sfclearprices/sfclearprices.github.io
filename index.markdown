@@ -4,6 +4,8 @@ layout: page
 
 Hi! We're some San Franciscans who just introduced an initiative ordinance, the Transparent Restaurant Pricing Act, for San Francisco to require restaurants to include surcharges in prices. This will be relevant in the event that [SB 1524 becomes law](https://www.sfchronicle.com/food/restaurants/article/restaurant-junk-fees-exemption-bill-19497214.php).
 
+<a href="/subscribe" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007BFF; border: none; border-radius: 5px; text-align: center;">Join our mailing list!</a>
+
 <details>
 <summary>Why should we ban surcharges?</summary>
 Mandatory surcharges are fundamentally misleading: they make prices look lower than they actually are and make you do a multiplication problem to find out what you need to pay.
