@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Hi! We're some San Franciscans who just introduced an initiative ordinance, the Transparent Restaurant Pricing Act, for San Francisco to require restaurants to include surcharges in prices. This will be relevant in the event that [SB 1524 becomes law](https://www.sfchronicle.com/food/restaurants/article/restaurant-junk-fees-exemption-bill-19497214.php).
+California banned junk fees. Then the legislature [changed its mind](https://www.sfchronicle.com/food/restaurants/article/restaurant-junk-fees-exemption-bill-19497214.php) and passed a carve-out for restaurants. We’re trying to stop it, and we need your help.
 
 <a href="/subscribe" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007BFF; border: none; border-radius: 5px; text-align: center;">Join our mailing list!</a>
 
@@ -16,7 +16,7 @@ Mandatory surcharges are fundamentally misleading: they make prices look lower t
 <details>
 <summary>Why now?</summary>
 
-In October 2023, the <a href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB478">Consumers Legal Remedies Act (SB 478)</a> was signed into law. This banned "drip pricing" (a rising trend in which companies will shift some cost from the price of items into mandatory fees) in California, effective July 1, 2024. But then, in June 2024 — less than a month before the surcharge ban was set to take effect — legislators introduced <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB1524">SB 1524</a>, a last-minute attempt to carve out an exception for restaurants and bars to continue to engage in drip pricing. This measure is intended to close the SB 1524 loophole within San Francisco.
+In October 2023, <a href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB478">SB 478</a>, an update to the Consumers Legal Remedies Act, was signed into law. This banned "drip pricing" (a rising trend in which companies will shift some cost from the price of items into mandatory fees) in California, effective July 1, 2024. But then, in June 2024 — less than a month before the surcharge ban was set to take effect — legislators introduced <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB1524">SB 1524</a>, a last-minute attempt to carve out an exception for restaurants and bars to continue to engage in drip pricing. This measure is intended to close the SB 1524 loophole within San Francisco. SB 1524 has (as of June 27, 2024) passed both houses of the state legislature unanimously.
 
 </details>
 <span class="spacer" />
@@ -26,12 +26,25 @@ In October 2023, the <a href="https://leginfo.legislature.ca.gov/faces/billTextC
 
 <ul>
 <li><a href="/subscribe">Join our email list.</a></li>
-<li><a href="https://findyourrep.legislature.ca.gov/">Contact your state legislators</a> and tell them that you oppose SB 1524.</li>
+<li><a href="https://findyourrep.legislature.ca.gov/">Contact your state legislators</a> and tell them that you oppose restaurant junk fees.</li>
+<li><a href="https://www.gov.ca.gov/contact/">Contact the Governor</a> and tell him you oppose SB 1524.</li>
 <li><a href="https://sfplanninggis.org/sffind/">Contact your Supervisor</a> and tell them that you support a city ordinance to ban restaurant surcharges.</li>
 </ul>
 
 The petition to put this on the ballot has been submitted to the City Attorney for review but is not yet cleared for circulation. (And with any luck, SB 1524 will not pass and this will be unnecessary anyway.)
 
+</details>
+<span class="spacer" />
+
+<details>
+<summary>Can I donate?</summary>
+Soon! We are still working to create and register the proper legal entity to accept donations. Make sure to <a href="/subscribe">subscribe to the mailing list</a> if you are interested in donating; we will definitely bump this there. These donations will fund things like hosting this website, printing costs, professional services to ensure compliance with relevant election and campaign-finance laws, and (if budget allows) advertisements and paid signature gathering.
+</details>
+<span class="spacer" />
+
+<details>
+<summary>Wasn’t SB 1524 a state bill? Why is this not a statewide initiative or referendum?</summary>
+SB 1524 would apply to California. This initiative only fills the loophole in SF because… it's easier. A statewide petition would require about 550,000 signatures to qualify while a local one only requires about 10,000 signatures.
 </details>
 <span class="spacer" />
 
@@ -49,13 +62,13 @@ This will require prices include fees we are <i>already paying</i>. The price yo
 
 <details>
 <summary>Will this lower prices? If so, will these cuts hurt workers? </summary>
-No. This does not affect the business constraints in which restaurants operate: they still will be required to provide identical benefits to their workers
+No. This does not affect the business constraints in which restaurants operate: they still will be required to provide identical benefits to their workers.
 </details>
 <span class="spacer" />
 
 <details>
 <summary>I like knowing that my money is supporting workers. Can businesses still include this information?</summary>
-Yes. This ordinance only affects the advertised or listed prices of items. If the restaurant wants to put this information on the receipt, they are still free to do so. Consider an example: a current bill may be formatted as
+Yes. This ordinance only affects the advertised or listed prices of items. If the restaurant wants to put extra information on the receipt, they are still free to do so. Consider an example: a current bill may be formatted as
 
 <ul>
 <li>$100 food items</li>
