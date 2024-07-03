@@ -62,7 +62,7 @@ This will require prices include fees we are <i>already paying</i>. The price yo
 
 <details>
 <summary>Will this lower prices? If so, will these cuts hurt workers? </summary>
-No. This does not affect the business constraints in which restaurants operate: they still will be required to provide identical benefits to their workers.
+No. This does not affect the business constraints in which restaurants operate: they still will be required to provide the same benefits to their workers that are guaranteed by current law.
 </details>
 <span class="spacer" />
 
