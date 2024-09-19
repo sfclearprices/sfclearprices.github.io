@@ -26,6 +26,7 @@ In October 2023, <a href="https://leginfo.legislature.ca.gov/faces/billTextClien
 
 <ul>
 <li><a href="/subscribe">Join our email list.</a></li>
+<li><a href="/donate">Donate</a></li>
 <li><a href="https://findyourrep.legislature.ca.gov/">Contact your state legislators</a> and tell them that you oppose restaurant junk fees.</li>
 <li><a href="https://www.gov.ca.gov/contact/">Contact the Governor</a> and tell him you oppose SB 1524.</li>
 <li><a href="https://sfplanninggis.org/sffind/">Contact your Supervisor</a> and tell them that you support a city ordinance to ban restaurant surcharges.</li>
@@ -38,7 +39,7 @@ The petition to put this on the ballot has been submitted to the City Attorney f
 
 <details>
 <summary>Can I donate?</summary>
-Soon! We are still working to create and register the proper legal entity to accept donations. Make sure to <a href="/subscribe">subscribe to the mailing list</a> if you are interested in donating; we will definitely bump this there. These donations will fund things like hosting this website, printing costs, professional services to ensure compliance with relevant election and campaign-finance laws, and (if budget allows) advertisements and paid signature gathering.
+Yes! See the <a href="/donate">Donate</a> page.
 </details>
 <span class="spacer" />
 
