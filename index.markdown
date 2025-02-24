@@ -2,10 +2,11 @@
 layout: page
 ---
 
-California banned junk fees. Then the legislature [changed its mind](https://www.sfchronicle.com/food/restaurants/article/restaurant-junk-fees-exemption-bill-19497214.php) and passed a carve-out for restaurants. We’re trying to stop it, and we need your help.
+California banned junk fees. Then the legislature [changed its mind](https://www.sfchronicle.com/food/restaurants/article/restaurant-junk-fees-exemption-bill-19497214.php) and passed a carve-out for restaurants. We’re trying to stop it, and we need your help. **Petition circulation begins Saturday, March 1, 2025.**
 
-<a href="/donate" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #28a745; border: none; border-radius: 5px; text-align: center;">Donate</a>
-<a href="/subscribe" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007BFF; border: none; border-radius: 5px; text-align: center;">Join our mailing list</a>
+<a href="/volunteer" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #28a745; border: none; border-radius: 5px; text-align: center;">Volunteer</a>
+<a href="/donate" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007BFF; border: none; border-radius: 5px; text-align: center;">Donate</a>
+<a href="/subscribe" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #343a40; border: none; border-radius: 5px; text-align: center;">Join our mailing list</a>
 
 <details>
 <summary>Why should we ban surcharges?</summary>
@@ -27,9 +28,9 @@ In October 2023, <a href="https://leginfo.legislature.ca.gov/faces/billTextClien
 
 <ul>
 <li><a href="/subscribe">Join our email list.</a></li>
-<li><a href="/donate">Donate</a></li>
+<li><a href="/donate">Donate</a> and <a href="/volunteer">volunteer</a>!</li>
 <li><a href="https://findyourrep.legislature.ca.gov/">Contact your state legislators</a> and tell them that you oppose restaurant junk fees.</li>
-<li><a href="https://www.gov.ca.gov/contact/">Contact the Governor</a> and tell him you oppose SB 1524.</li>
+<li><a href="https://www.gov.ca.gov/contact/">Contact the Governor</a> and tell him you oppose restaurant junk fees.</li>
 <li><a href="https://sfplanninggis.org/sffind/">Contact your Supervisor</a> and tell them that you support a city ordinance to ban restaurant surcharges.</li>
 </ul>
 
@@ -46,7 +47,7 @@ Yes! See the <a href="/donate">Donate</a> page.
 
 <details>
 <summary>Wasn’t SB 1524 a state bill? Why is this not a statewide initiative or referendum?</summary>
-SB 1524 would apply to California. This initiative only fills the loophole in SF because… it's easier. A statewide petition would require about 550,000 signatures to qualify while a local one only requires about 10,000 signatures.
+SB 1524 would apply to California. This initiative only fills the loophole in SF because… it's easier. A statewide petition would require about 550,000 signatures to qualify while a local one only requires 10,404 signatures.
 </details>
 <span class="spacer" />
 
