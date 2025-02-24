@@ -1,5 +1,5 @@
 ---
-title: Contact Us
+title: Contact
 permalink: /contact
 layout: no_title
 ---
