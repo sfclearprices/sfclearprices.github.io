@@ -10,6 +10,8 @@ Donations of any size can be made online, and all donations are greatly apprecia
 
 These donations will help us achieve our goal of getting the Transparent Restaurant Pricing Act on the ballot. More specifically, they will fund things like hosting this website, printing costs, professional services to ensure compliance with relevant election and campaign-finance laws, and (if budget allows) advertisements and paid signature gathering.
 
+Note that we do not use this as a mailing list and will never spam you using the info from this form. Donorbox will send you a receipt and an offer to create an account to manage donations. If you want updates, please [separately subscribe to our email list](/subscribe)
+
 ### Legal Disclaimers
 
 Contributions to Transparent Restaurant Pricing Act are not tax deductible. Election law requires us to publicly report cumulative contributions of $100 or more. We may not deposit your contribution without your name, street address, occupation and employer information from individual contributors, and may not accept contributions of $100 or more made by cashier’s checks, money orders, or cash. In making this contribution, the contributor affirms that they are a United States citizen or a permanent resident.
