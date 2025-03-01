@@ -13,7 +13,8 @@ To sign, you must be registered to vote in San Francisco.
 
 ## 1. Print at home
 
-San Francisco's process hasn't exactly entered the 21st century, so there is no online signature option.
+San Francisco's process hasn't exactly entered the 21st century, so there is no online signature option. This is as close
+as we can get.
 
 <a href="/SelfServicePetition.pdf" style="display: inline-block; padding: 10px 20px; font-size: 18px; color: #fff; background-color: #28a745; border: none; border-radius: 5px; text-align: center;">Download the Petition PDF</a>
 
