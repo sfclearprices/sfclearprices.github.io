@@ -4,6 +4,9 @@ layout: page
 
 California banned junk fees. Then the legislature [changed its mind](https://www.sfchronicle.com/food/restaurants/article/restaurant-junk-fees-exemption-bill-19497214.php) and passed a carve-out for restaurants. We’re trying to stop it, and we need your help. **Petition circulation begins Saturday, March 1, 2025.**
 
+<a href="/sign" style="display: inline-block; padding: 10px 20px; font-size: 18px; color: #fff; background-color: #28a745; border: none; border-radius: 5px; text-align: center;">Sign the Petition</a>
+<br />
+
 <a href="/volunteer" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #28a745; border: none; border-radius: 5px; text-align: center;">Volunteer</a>
 <a href="/donate" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007BFF; border: none; border-radius: 5px; text-align: center;">Donate</a>
 <a href="/subscribe" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #343a40; border: none; border-radius: 5px; text-align: center;">Join our mailing list</a>
