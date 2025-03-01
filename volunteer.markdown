@@ -6,6 +6,8 @@ layout: no_title
 
 # How YOU can help us ban junk fees 
 
+### [Sign](/sign)
+
 ### Volunteer as a petition circulator
 
 To ciculate the petition, the sole qualification is that **you must be at least 18 years old**. (People who live elsewhere in the Bay, this is your chance to help!)
