@@ -18,7 +18,7 @@ Mandatory surcharges are fundamentally misleading: they make prices look lower t
 <details>
 <summary>Why now?</summary>
 
-In October 2023, <a href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB478">SB 478</a>, an update to the Consumers Legal Remedies Act, was signed into law. This banned "drip pricing" (a rising trend in which companies will shift some cost from the price of items into mandatory fees) in California, effective July 1, 2024. But then, in June 2024 — less than a month before the surcharge ban was set to take effect — legislators introduced <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB1524">SB 1524</a>, a last-minute attempt to carve out an exception for restaurants and bars to continue to engage in drip pricing. This measure is intended to close the SB 1524 loophole within San Francisco. SB 1524 has (as of June 27, 2024) passed both houses of the state legislature unanimously.
+In October 2023, <a href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB478">SB 478</a>, an update to the Consumers Legal Remedies Act, was signed into law. This banned "drip pricing" (a rising trend in which companies will shift some cost from the price of items into mandatory fees) in California, effective July 1, 2024. But then, in June 2024 — less than a month before the surcharge ban was set to take effect — legislators passed <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB1524">SB 1524</a>, a last-minute carve-out to allow restaurants and bars to continue to engage in drip pricing. This measure is intended to close the SB 1524 loophole within San Francisco.
 
 </details>
 <span class="spacer" />
@@ -27,14 +27,13 @@ In October 2023, <a href="https://leginfo.legislature.ca.gov/faces/billTextClien
 <summary>How do I help?</summary>
 
 <ul>
+<li><a href="/sign">Sign the petition.</a></li>
 <li><a href="/subscribe">Join our email list.</a></li>
 <li><a href="/donate">Donate</a> and <a href="/volunteer">volunteer</a>!</li>
 <li><a href="https://findyourrep.legislature.ca.gov/">Contact your state legislators</a> and tell them that you oppose restaurant junk fees.</li>
 <li><a href="https://www.gov.ca.gov/contact/">Contact the Governor</a> and tell him you oppose restaurant junk fees.</li>
 <li><a href="https://sfplanninggis.org/sffind/">Contact your Supervisor</a> and tell them that you support a city ordinance to ban restaurant surcharges.</li>
 </ul>
-
-The petition to put this on the ballot has been submitted to the City Attorney for review but is not yet cleared for circulation. (And with any luck, SB 1524 will not pass and this will be unnecessary anyway.)
 
 </details>
 <span class="spacer" />
