@@ -4,7 +4,12 @@ title: Sign
 permalink: /sign
 ---
 
-# 3 ways to sign
+# Three ways to sign
+
+To sign, you must be registered to vote in San Francisco.
+
+* [Check your registration status](https://voterstatus.sos.ca.gov/)
+* [Register to vote](https://registertovote.ca.gov/)
 
 ## 1. Print at home
 
@@ -18,8 +23,17 @@ Also note that if you do not have a printer, [the library offers $2 daily in fre
 
 ## 2. Attend an in-person event
 
-View a list of in-person events [here](/volunteer), or post on [our subreddit](https://www.reddit.com/r/SFClearPrices/)
-to reach out to volunteers.
+We will be collecting signatures here:
+
+* Dolores Park, 11am-1pm on Saturday, March 1, 2025
+* Marina Green, 2pm-4pm on Saturday, March 1, 2025
+* Inner Sunset (9th/Irving), 11am-1pm on Sunday, March 2, 2025
+* Washington Square Park, 2pm-4pm on Sunday, March 2, 2025
+
+(This page will be updated with more dates over time.)
+
+You can also post on [our subreddit](https://www.reddit.com/r/SFClearPrices/)
+or [reach out to us](/contact) to suggest additional locations or events.
 
 ## 3. Request a copy of the petition by mail
 
