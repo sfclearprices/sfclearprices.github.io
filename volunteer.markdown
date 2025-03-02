@@ -20,10 +20,22 @@ Even if you’re not comfortable awkwardly approaching strangers to ask, you can
 If you want to volunteer, the first thing you'll need to do is attend a session to learn how to circulate and receive petition sections. You can do that by attending
 events listed [here](/sign).
 
-We also ask that you first [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfYfI1zvqL-lbQXN1btLw2u3j0MgCI4UGLqZEvSH-iiRin6xg/viewform?usp=header) so we know who you are.
-You can fill it out here or just drop in, but please fill out in advance if you can so we can guarantee that we have enough supplies.
+The first think you'll need to do is find us to pick up petition sections! You can do that at any event tagged "petition pickup."
+If nothing here works for you, reach out to [reach out to us to arrange a pickup](/contact)!
 
-If you want to get ahead, you can also read our ["Hitchhiker’s Guide to Circulating a Petition in San Francisco"](https://docs.google.com/document/d/1YkOkqOgwv39OfEZygB8f8RJuACUxyqk9E85v2wvC7oY) training document
+<iframe
+  src="https://lu.ma/embed/calendar/cal-rSrbr2c4ntwC7lb/events"
+  width="600"
+  height="450"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  allowfullscreen=""
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
+
+[View the full calendar and RSVP on Luma](https://lu.ma/calendar/cal-rSrbr2c4ntwC7lb). While you can just drop in, we do appreciate RSVPs to
+make sure we have enough materials prepared. If you want to get ahead, you can also read our ["Hitchhiker’s Guide to Circulating a Petition in San Francisco"](https://docs.google.com/document/d/1YkOkqOgwv39OfEZygB8f8RJuACUxyqk9E85v2wvC7oY) training document.
 
 ### Have another way you want to offer help?
 

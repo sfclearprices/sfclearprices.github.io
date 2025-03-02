@@ -24,16 +24,18 @@ Also note that if you do not have a printer, [the library offers $2 daily in fre
 
 ## 2. Attend an in-person event
 
-We will be collecting signatures here:
+<iframe
+  src="https://lu.ma/embed/calendar/cal-rSrbr2c4ntwC7lb/events"
+  width="600"
+  height="450"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  allowfullscreen=""
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
 
-* Dolores Park, 11am-1pm on Saturday, March 1, 2025
-* Marina Green, 2pm-4pm on Saturday, March 1, 2025
-* Inner Sunset (9th/Irving), 11am-1pm on Sunday, March 2, 2025
-* Washington Square Park, 2pm-4pm on Sunday, March 2, 2025
-
-(This page will be updated with more dates over time.)
-
-You can also post on [our subreddit](https://www.reddit.com/r/SFClearPrices/)
+[View the full calendar and RSVP on Luma](https://lu.ma/calendar/cal-rSrbr2c4ntwC7lb). You can also post on [our subreddit](https://www.reddit.com/r/SFClearPrices/)
 or [reach out to us](/contact) to suggest additional locations or events.
 
 ## 3. Request a copy of the petition by mail
