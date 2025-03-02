@@ -6,7 +6,7 @@ layout: no_title
 
 # How YOU can help us ban junk fees 
 
-### [Sign](/sign)
+### [Sign the petition](/sign)
 
 ### Volunteer as a petition circulator
 
