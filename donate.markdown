@@ -4,7 +4,7 @@ permalink: /donate
 layout: page
 ---
 
-Donations of any size can be made online, and all donations are greatly appreciated. However, if you plan to make a large donation or prefer to donate by other means, please reach out to us via email at <a href="mailto:contact@sfclearprices.org">contact@sfclearprices.org</a>.
+Donations of any size can be made online <a href="https://donorbox.org/transparent-restaurant-pricing-act">here</a>, and all donations are greatly appreciated. However, if you plan to make a large donation or prefer to donate by other means, please reach out to us via email at <a href="mailto:contact@sfclearprices.org">contact@sfclearprices.org</a>.
 
 <script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe src="https://donorbox.org/embed/transparent-restaurant-pricing-act?language=en" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important" allow="payment"></iframe>
 
