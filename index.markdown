@@ -33,6 +33,9 @@ In October 2023, <a href="https://leginfo.legislature.ca.gov/faces/billTextClien
 <li><a href="/sign">Sign the petition.</a></li>
 <li><a href="/subscribe">Join our email list.</a></li>
 <li><a href="/donate">Donate</a> and <a href="/volunteer">volunteer</a>!</li>
+<li>Vote with your money.
+Use <a href="https://www.seefees.ca/">See Fees in California</a> to find restaurants without junk fees to support
+(and restaurants with junk fees to avoid).</li>
 <li><a href="https://findyourrep.legislature.ca.gov/">Contact your state legislators</a> and tell them that you oppose restaurant junk fees.</li>
 <li><a href="https://www.gov.ca.gov/contact/">Contact the Governor</a> and tell him you oppose restaurant junk fees.</li>
 <li><a href="https://sfplanninggis.org/sffind/">Contact your Supervisor</a> and tell them that you support a city ordinance to ban restaurant surcharges.</li>
@@ -49,7 +52,8 @@ Yes! See the <a href="/donate">Donate</a> page.
 
 <details>
 <summary>Wasn’t SB 1524 a state bill? Why is this not a statewide initiative or referendum?</summary>
-SB 1524 would apply to California. This initiative only fills the loophole in SF because… it's easier. A statewide petition would require about 550,000 signatures to qualify while a local one only requires 10,404 signatures.
+SB 1524 would apply to California. This initiative only fills the loophole in SF because… it's easier. A statewide petition would require about 550,000 signatures to qualify while a local one "only" requires 10,404 signatures.
+That said, we still need a lot of signatures and require all the help we can get!
 </details>
 <span class="spacer" />
 
