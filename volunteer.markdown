@@ -8,6 +8,8 @@ layout: no_title
 
 ### [Sign the petition](/sign)
 
+### [Join the Discord](discord.gg/d9xz7AKaMB)
+
 ### Volunteer as a petition circulator
 
 To ciculate the petition, the sole qualification is that **you must be at least 18 years old**. (People who live elsewhere in the Bay, this is your chance to help!)
