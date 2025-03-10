@@ -8,7 +8,7 @@ layout: no_title
 
 ### [Sign the petition](/sign)
 
-### [Join the Discord](discord.gg/d9xz7AKaMB)
+### [Join the Discord](https://discord.gg/d9xz7AKaMB)
 
 ### Volunteer as a petition circulator
 
