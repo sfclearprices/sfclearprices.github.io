@@ -33,8 +33,10 @@ If nothing here works for you, reach out to [reach out to us to arrange a pickup
   tabindex="0"
 ></iframe>
 
-[View the full calendar and RSVP on Luma](https://lu.ma/calendar/cal-rSrbr2c4ntwC7lb). While you can just drop in, we do appreciate RSVPs to
-make sure we have enough materials prepared. If you want to get ahead, you can also read our ["Hitchhiker’s Guide to Circulating a Petition in San Francisco"](https://docs.google.com/document/d/1YkOkqOgwv39OfEZygB8f8RJuACUxyqk9E85v2wvC7oY) training document.
+[View the full calendar and RSVP on Luma](https://lu.ma/calendar/cal-rSrbr2c4ntwC7lb). 
+
+Please RSVP on Luma (or if you're having trouble, just [shoot us a message](/contact)) beforehand so we can make sure to have materials for you!
+If you want to get ahead, you can also read our ["Hitchhiker’s Guide to Circulating a Petition in San Francisco"](https://docs.google.com/document/d/1YkOkqOgwv39OfEZygB8f8RJuACUxyqk9E85v2wvC7oY) training document.
 
 ### Have another way you want to offer help?
 
