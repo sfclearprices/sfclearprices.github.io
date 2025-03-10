@@ -19,7 +19,7 @@ This is probably the **single best thing you can do to help**.
 If we’re going to reach our goal of 15,000 signatures, we'll need a lot of circulators.
 If you’ve never circulated a petition before, don’t worry! We can teach everything you need to know.
 Even if you’re not comfortable awkwardly approaching strangers to ask, you can just casually circulate among people you already know! Show your work friends. Bring your clipboard along to a party (that’s not too weird is it?). Talk to your friends in the city; every signature helps!
-If you want to volunteer, the first thing you'll need to do is attend a session to learn how to circulate and receive petition sections. You can do that at any event below tagged "petition pickup."
+If you want to volunteer, the first thing you'll need to do is find us to pick up a clipboard, petition packet, and pens!
 If nothing here works for you, reach out to [reach out to us to arrange a pickup](/contact)!
 
 <iframe
