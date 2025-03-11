@@ -2,6 +2,8 @@
 layout: page
 title: Legal
 permalink: /legal
+redirect_from:
+  - /legal_text
 ---
 
 * [Full legal text](/v2/initiative_text.pdf)

@@ -2,7 +2,11 @@
 layout: page
 title: Sign
 permalink: /sign
+redirect_from:
+  - /status
 ---
+
+We are currently accepting signatures!
 
 # Three ways to sign
 
