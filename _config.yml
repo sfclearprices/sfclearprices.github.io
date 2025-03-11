@@ -28,6 +28,7 @@ url: https://sfclearprices.org # the base hostname & protocol for your site, e.g
 #github_username:  jekyll
 
 google_analytics: G-PFRH4LY87V
+encoding: utf-8
 
 # Build settings
 remote_theme: jekyll/minima
