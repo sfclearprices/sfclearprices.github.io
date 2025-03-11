@@ -1,6 +1,6 @@
 ---
 title: Press
-permalink: /news
+permalink: /press
 layout: no_title
 ---
 
