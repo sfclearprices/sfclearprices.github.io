@@ -41,6 +41,8 @@ Also note that if you do not have a printer, [the library offers $2 daily in fre
 
 [View the full calendar and RSVP on Luma](https://lu.ma/calendar/cal-rSrbr2c4ntwC7lb).
 
+Rain cancels outdoor events. If you're having trouble finding us at an event, email contact@sfclearprices.org.
+
 If none of these events work, you can [request an appointment with one of our volunteers](https://cal.com/werewolf/petition-signing), post on [our subreddit](https://www.reddit.com/r/SFClearPrices/), or [reach out to us](/contact) to suggest additional locations or events.
 
 ## 3. Request a copy of the petition by mail
