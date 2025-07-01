@@ -7,8 +7,7 @@ redirect_from:
 ---
 
 * [Full legal text](/v2/initiative_text.pdf)
-* [May 2025 Official Top Funders Sheet](/v2/TopFunders_2025-05.pdf)
-* [June 2025 Official Top Funders Sheet](/v2/TopFunders_2025-06.pdf)
+* [July 2025 Official Top Funders Sheet](/v2/TopFunders_2025-07.pdf)
 * [All submissions on Department of Elections website](https://www.sf.gov/the-transparent-restaurant-pricing-act) (e.g. City Attorney summary)
 
 <!-- 
