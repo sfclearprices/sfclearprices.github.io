@@ -6,7 +6,9 @@ redirect_from:
   - /status
 ---
 
-We are currently accepting signatures!
+We are currently past the deadline and no longer accepting signatures. More details forthcoming.
+
+<!-- We are currently accepting signatures!
 
 # Three ways to sign
 
@@ -50,4 +52,4 @@ If none of these events work, you can [request an appointment with one of our vo
 
 If you do not have access to a printer, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSciaBs7ypYjnsN0P8pUJnhOeyKut8n2xYQT1sNu4omBMAUvZQ/viewform?usp=header) to request a copy by mail.
 
-We will enclose a return envelope; all you need is a pen.
+We will enclose a return envelope; all you need is a pen. -->

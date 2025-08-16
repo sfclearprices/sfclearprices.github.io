@@ -6,11 +6,16 @@ layout: no_title
 
 # How YOU can help us ban junk fees 
 
-### [Sign the petition](/sign)
+<!-- ### [Sign the petition](/sign) -->
 
-### [Join the Discord](https://discord.gg/d9xz7AKaMB)
+* [Join the Discord](https://discord.gg/d9xz7AKaMB)
+* [Join our mailing list](/subscribe)
 
-### Volunteer as a petition circulator
+
+While we are not currently circulating anything related to junk fees, we are gathering people to discuss next steps,
+and you can be a part of that here.
+
+<!-- ### Volunteer as a petition circulator
 
 To ciculate the petition, the sole qualification is that **you must be at least 18 years old**. (People who live elsewhere in the Bay, this is your chance to help!)
 
@@ -36,7 +41,7 @@ If nothing here works for you, reach out to [reach out to us to arrange a pickup
 [View the full calendar and RSVP on Luma](https://lu.ma/calendar/cal-rSrbr2c4ntwC7lb). 
 
 Please RSVP on Luma (or if you're having trouble, just [shoot us a message](/contact)) beforehand so we can make sure to have materials for you!
-If you want to get ahead, you can also read our ["Hitchhiker’s Guide to Circulating a Petition in San Francisco"](https://docs.google.com/document/d/1YkOkqOgwv39OfEZygB8f8RJuACUxyqk9E85v2wvC7oY) training document.
+If you want to get ahead, you can also read our ["Hitchhiker’s Guide to Circulating a Petition in San Francisco"](https://docs.google.com/document/d/1YkOkqOgwv39OfEZygB8f8RJuACUxyqk9E85v2wvC7oY) training document. -->
 
 ### Have another way you want to offer help?
 
