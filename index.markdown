@@ -2,6 +2,11 @@
 layout: page
 ---
 
+**NOTE**: This initiative did not qualify for the ballot, collecting approximately 1,000 signatures of the approximately 10,000 required in time for our August 2025 deadline. We have no plans to re-attempt at this time, but in the meantime we encourage everyone to continue reporting fees to [SeeFees.ca](https://www.seefees.ca/). Additionally, if you encounter the "worst of the worst" junk fees (entirely undisclosed or only disclosed in fine print), you can follow similar advice to [this guide regarding similarly illegal junk fees at hotels](https://killresortfees.com/dontpay).
+
+---
+
+
 California banned junk fees. Then the legislature [changed its mind](https://www.sfchronicle.com/food/restaurants/article/restaurant-junk-fees-exemption-bill-19497214.php) and passed a carve-out for restaurants. We’re trying to stop it, and we need your help.
 
 <!-- <a href="/sign" style="display: inline-block; padding: 10px 20px; font-size: 18px; color: #fff; background-color: #28a745; border: none; border-radius: 5px; text-align: center;">Sign the Petition</a>
